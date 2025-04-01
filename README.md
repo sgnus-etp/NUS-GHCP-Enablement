@@ -1,4 +1,4 @@
-# GitHub Copilot for Research Excellence Workshop
+# GitHub Copilot for Research Excellence - Excitement Day @ NUS
 
 This guide provides an overview of GitHub Copilot and how it can accelerate your research workflows. It serves as a reference for the workshop presented at NUS.
 
