@@ -15,13 +15,13 @@ This guide provides an overview of GitHub Copilot and how it can accelerate your
 
 - **Be specific in your comments**: Provide clear context about the research task you're trying to accomplish
 - **Iterate on suggestions**: Treat Copilot suggestions as a starting point and refine as needed
-- **Use pseudocode**: Outline your algorithms in comments before implementation
+- **Use pseudocode**: Outline your algorithms in comments or Chat before implementation
 - **Request explanations**: Ask Copilot to explain complex code by adding a comment with your question
 - **Learn from suggestions**: Study Copilot's code to improve your own programming skills
 
 ## 1. About GitHub Copilot
 
-GitHub Copilot is an AI pair programmer that helps you write code faster and with less effort. It draws context from comments and code to suggest individual lines and whole functions instantly. Powered by OpenAI's advanced language models, GitHub Copilot understands both natural language and a vast array of programming languages.
+GitHub Copilot is an AI pair programmer that helps you write code faster and with less effort. It draws context from comments and code to suggest individual lines and whole functions instantly. Powered by advanced language models, GitHub Copilot understands both natural language and a vast array of programming languages.
 
 For researchers, GitHub Copilot offers:
 
