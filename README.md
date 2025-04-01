@@ -57,7 +57,7 @@ Generate clear documentation, research reports, and even paper outlines with Git
 
 <!-- VIDEO PLACEHOLDER: Documentation writing demonstration -->
 
-## 3. Unlocking Research Excellence
+## 3. Unlock Research Excellence with GitHub Copilot
 
 ### 3.1 Accelerating Prototype Development
 
