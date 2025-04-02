@@ -117,6 +117,16 @@ https://github.com/user-attachments/assets/b5b178cb-1581-46b9-b075-a2ff6d224dcd
 
 Accelerate genomic data sequence analysis with GitHub Copilot by generating specialized code for sequence analysis, pattern recognition, and data visualization.
 
+##### Example Scenario: 
+Imagine you are a data scientist specializing in statistical machine learning. You are tasked with analyzing a high-dimensional gene expression dataset to identify patterns and understand gene regulation mechanisms. The dataset is complex and requires extensive preprocessing, exploratory data analysis, and statistical analysis to uncover significant gene expression changes and detect complex patterns.
+
+##### Example Prompt: 
+"Assume you are a data scientist specializing in statistical machine learning. You are tasked with analyzing a high-dimensional gene expression dataset. Do the following:
+Clean and normalize the raw gene expression data.
+Visualize the data to identify initial patterns and outliers.
+Apply statistical methods to find significant gene expression changes.
+Use machine learning algorithms to detect complex patterns and clusters."
+
 https://github.com/user-attachments/assets/fb59d9de-35b8-4fb8-9edb-b67848c3c662
 
 https://github.com/user-attachments/assets/a8101af1-28fc-46e2-b8a4-f8c1acf0f099
@@ -124,6 +134,16 @@ https://github.com/user-attachments/assets/a8101af1-28fc-46e2-b8a4-f8c1acf0f099
 ### 3.2 Publish Research
 
 GitHub Copilot can assist in generating code for creating research papers, formatting data for journals, and preparing supplementary materials.
+
+##### Example Scenario: 
+Imagine you are a computational researcher working on publishing your research findings. You have completed your research and now need to create a comprehensive markdown file that includes code snippets, figures, and tables. The process is tedious and time-consuming, and you need to ensure that the documentation is clear, consistent, and error-free.
+
+##### Example Prompt: 
+"Assume you are a computational researcher. You are tasked with publishing your research findings by creating a markdown file. Do the following to create a markdown file:
+Document the research process and findings in a clear and comprehensive manner.
+Integrate code snippets, figures, and tables seamlessly into the markdown file.
+Ensure consistency and accuracy throughout the documentation.
+Proofread the final document to ensure it is polished and error-free."
 
 https://github.com/user-attachments/assets/9ee73696-da5d-49ba-9959-abaec9c98809
 
@@ -134,6 +154,17 @@ https://github.com/user-attachments/assets/ad3bdd67-c293-4127-b600-099dca944ead
 
 Extract valuable insights from in-house enterprise research knowledge base, external research papers, datasets, and other sources with GitHub Copilot's assistance in developing text mining and analysis tools.
 
+##### Example Scenario: 
+Imagine you are a researcher trying to find out about research done both in-house within your enterprise and externally. You need to gather detailed information about these research projects, including methodologies, results, and potential applications. GitHub Copilot can assist you in quickly locating and summarizing relevant research papers, repositories, and other resources.
+
+##### Example Prompt: 
+
+"Assume you are a researcher. You are tasked with finding out about research done both in-house within your enterprise and externally. Do the following:
+Search for relevant research papers and repositories related to your Topic of study.
+Summarize the methodologies, results, and potential applications of these research projects.
+Provide detailed information about the key findings and how they can be applied to your current research.
+Suggest further readings and resources to deepen your understanding of the topic."
+
 https://github.com/user-attachments/assets/7e534741-bc48-4b0d-8530-80120152d239
 
 https://github.com/user-attachments/assets/ea2021b8-63bc-4ced-a3fb-9313a37f28cf
@@ -142,13 +173,35 @@ https://github.com/user-attachments/assets/a9264619-6f2c-4453-a95a-31c796bb5764
 
 ### 3.4 Agents for Research
 
-Leverage GitHub Copilot Agents to do Protein Folding, Protein Ligand Interaction & Strcture Prediction.This can automate simulation & validation tasks, monitor experiments, and alert you to important events.
+Leverage GitHub Copilot Agents to do Research Activities like Protein Folding, Protein Ligand Interaction & Strcture Prediction. This can automate simulation & validation tasks, monitor experiments, and alert you to important events.
+
+##### Example Scenario: 
+Imagine you are a biomedical scientist working on predicting the 3D structure of a novel protein. You need to gather the amino acid sequence of the protein, analyze it using bioinformatics tools, set up and run simulations to predict the folding pathway, and validate the predicted structures. This process involves multiple steps and requires a streamlined workflow to ensure accuracy and efficiency.
+
+##### Example Prompt: 
+"Assume you are a biomedical scientist. You are tasked with predicting the 3D structure of a novel protein. Do the following:
+Gather the amino acid sequence of the protein.
+Use bioinformatics tools to analyze the sequence for motifs and domains.
+Set up simulations to predict the folding pathway, considering factors like solvent conditions and temperature.
+Run multiple simulations to generate possible structures and folding pathways.
+Compare the predicted structures with known structures for validation.
+Refine the models based on validation results, possibly iterating through additional simulations."
 
 https://github.com/user-attachments/assets/a2bd797e-c1e4-43ad-add4-6bd68d77cfac
 
 ### 3.5 Research Refactoring
 
 Improve the quality, efficiency, and reproducibility of your research code with GitHub Copilot's refactoring suggestions.
+
+##### Example Scenario: 
+Imagine you are a researcher who has completed a significant amount of work on a project, but you realize that the codebase needs refactoring to improve its efficiency and readability. You decide to use GitHub Copilot to help you refactor the code, ensuring that it adheres to best practices and is optimized for performance.
+
+##### Example Prompt: 
+"Assume you are a Deep Learning Specialist. You are tasked with refactoring your research codebase to improve its efficiency and readability. Do the following:
+Identify and eliminate redundant code.
+Optimize the code for better performance.
+Ensure that the code adheres to best practices and coding standards.
+Document the changes made during the refactoring process."
 
 https://github.com/user-attachments/assets/54a05971-9a6a-4a65-a05d-9c63d0502a8c
 
