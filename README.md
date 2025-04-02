@@ -39,7 +39,7 @@ GitHub Copilot can help you understand existing codebases and implement new feat
 <!-- VIDEO PLACEHOLDER: Onboarding to a project demonstration -->
 
 
-https://github.com/user-attachments/assets/24d8eb00-c5c7-4860-9c8a-8170b4c7aeb2
+![Help Onboard to a Project Faster](https://github.com/user-attachments/assets/24d8eb00-c5c7-4860-9c8a-8170b4c7aeb2)
 
 
 ### 2.2 Research Stories to Code
