@@ -36,11 +36,16 @@ For researchers, GitHub Copilot offers:
 
 GitHub Copilot can help you understand existing codebases and implement new features faster by suggesting relevant code based on the context.
 
-<!-- VIDEO PLACEHOLDER: Onboarding to a project demonstration -->
+<video width="320" height="240" controls>
+  <source src="https://github.com/user-attachments/assets/b0ca4ab0-970c-45b4-8f5c-af47309ecc77" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
-![Help Onboard to a Project Faster](https://github.com/user-attachments/assets/24d8eb00-c5c7-4860-9c8a-8170b4c7aeb2)
 
+
+
+**Help Onboard to a Project Faster**
 
 ### 2.2 Research Stories to Code
 
