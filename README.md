@@ -38,6 +38,10 @@ GitHub Copilot can help you understand existing codebases and implement new feat
 
 <!-- VIDEO PLACEHOLDER: Onboarding to a project demonstration -->
 
+Uploading Help Onboard to a project.mp4…
+
+
+
 ### 2.2 Research Stories to Code
 
 Transform your research concepts and pseudocode into functional implementations by describing what you want to accomplish in natural language.
