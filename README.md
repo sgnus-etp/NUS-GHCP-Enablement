@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/28c0cedf-d9f6-4423-998c-df8afda3276e
 
 ## Getting Started with GitHub Copilot
 
-### Installation in VS Code.md
+### Installation in VS Code
 
 1. Install the GitHub Copilot & GitHub Copilot Chat extensions on VS Code
    
