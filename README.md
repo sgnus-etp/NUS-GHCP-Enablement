@@ -40,10 +40,11 @@ https://github.com/user-attachments/assets/28c0cedf-d9f6-4423-998c-df8afda3276e
 
 ### Installation in VS Code
 
-1. Install the GitHub Copilot & GitHub Copilot Chat extensions on VS Code
+1. Install the GitHub Copilot & GitHub Copilot Chat extensions on VS Code ([![Watch the video](https://img.youtube.com/vi/dMbOh114Vd4/0.jpg)](https://www.youtube.com/watch?v=dMbOh114Vd4))
 2. Sign in to your GitHub account when prompted
 3. Ensure you have an active GitHub Copilot subscription
 4. Start coding with AI assistance!
+
 
 ### Best Practices for Researchers
 
