@@ -2,9 +2,39 @@
 
 This guide provides an overview of GitHub Copilot and how it can accelerate your research workflows. It serves as a reference for the workshop presented at NUS.
 
+# Table of Contents
+
+- [GitHub Copilot for Research Excellence - Excitement Day @ NUS](#github-copilot-for-research-excellence---excitement-day--nus)
+  - [Installation of Visual Studio Code](#installation-of-visual-studio-code)
+  - [Getting Started with GitHub Copilot](#getting-started-with-github-copilot)
+    - [Installation in VS Code](#installation-in-vs-code)
+    - [Best Practices for Researchers](#best-practices-for-researchers)
+  - [1. About GitHub Copilot](#1-about-github-copilot)
+  - [2. GitHub Copilot Features](#2-github-copilot-features)
+    - [2.1 Help Onboard to a Project Faster](#21-help-onboard-to-a-project-faster)
+    - [2.2 Research Stories to Code](#22-research-stories-to-code)
+    - [2.3 Provide Input to Improve & Fix Code](#23-provide-input-to-improve--fix-code)
+    - [2.4 Write Documentations](#24-write-documentations)
+  - [3. Unlock Research Excellence with GitHub Copilot](#3-unlock-research-excellence-with-github-copilot)
+    - [3.1.1 Accelerating Prototype Development - Neural Style Transfer](#311-accelerating-prototype-development---neural-style-transfer)
+    - [3.1.2 Accelerating Prototype Development - Quick Gene Pattern Analysis](#312-accelerating-prototype-development---quick-gene-pattern-analysis)
+    - [3.2 Publish Research](#32-publish-research)
+    - [3.3 Research Mining](#33-research-mining)
+    - [3.4 Agents for Research](#34-agents-for-research)
+    - [3.5 Research Refactoring](#35-research-refactoring)
+  - [Additional Resources](#additional-resources)
+
 ## Installation of Visual Studio Code
 
 To set up Visual Studio Code, follow the instructions provided in the [official documentation](https://code.visualstudio.com/docs/setup/setup-overview).
+
+### VS Code Installation in Windows
+
+https://github.com/user-attachments/assets/d5c51ebe-c9bc-4c2e-bc09-32cdca5741c9
+
+### VS Code Installation in MacOS
+
+https://github.com/user-attachments/assets/28c0cedf-d9f6-4423-998c-df8afda3276e
 
 ## Getting Started with GitHub Copilot
 
