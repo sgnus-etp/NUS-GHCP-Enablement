@@ -6,8 +6,6 @@ This guide provides an overview of GitHub Copilot and how it can accelerate your
 
 - [GitHub Copilot for Research Excellence - Excitement Day @ NUS](#github-copilot-for-research-excellence---excitement-day--nus)
   - [Installation of Visual Studio Code](#installation-of-visual-studio-code)
-    - [VS Code Installation in Windows](#vs-code-installation-in-windows)
-    - [VS Code Installation in MacOS](#vs-code-installation-in-macos)
   - [Getting Started with GitHub Copilot](#getting-started-with-github-copilot)
     - [Installation in VS Code](#installation-in-vs-code)
     - [Best Practices for Researchers](#best-practices-for-researchers)
@@ -29,14 +27,6 @@ This guide provides an overview of GitHub Copilot and how it can accelerate your
 ## Installation of Visual Studio Code
 
 To set up Visual Studio Code, follow the instructions provided in the [official documentation](https://code.visualstudio.com/docs/setup/setup-overview).
-
-### VS Code Installation in Windows
-
-https://github.com/user-attachments/assets/d5c51ebe-c9bc-4c2e-bc09-32cdca5741c9
-
-### VS Code Installation in MacOS
-
-https://github.com/user-attachments/assets/28c0cedf-d9f6-4423-998c-df8afda3276e
 
 ## Getting Started with GitHub Copilot
 
