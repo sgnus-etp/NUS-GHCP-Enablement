@@ -60,13 +60,13 @@ https://github.com/user-attachments/assets/b28e4e28-a721-4a44-9056-20c3a5f01bd5
 
 ## 3. Unlock Research Excellence with GitHub Copilot
 
-#### 3.1 Accelerating Prototype Development -Neural Style Transfer
+#### 3.1.1 Accelerating Prototype Development -Neural Style Transfer
 
 Quickly build research prototypes and iterate on them with GitHub Copilot's code generation capabilities. Ghibli type Neural Style Transfer example demonstrated in the workshop shows how GitHub Copilot can help optimize complex algorithms using natural language prompts, allowing researchers to focus on the creative and optimizing aspects of their work rather than implementation details.
 
 https://github.com/user-attachments/assets/b5b178cb-1581-46b9-b075-a2ff6d224dcd
 
-#### 3.2 Accelerating Prototype Development - Quick Gene Pattern Analysis
+#### 3.1.2 Accelerating Prototype Development - Quick Gene Pattern Analysis
 
 Accelerate genomic data sequence analysis with GitHub Copilot by generating specialized code for sequence analysis, pattern recognition, and data visualization.
 
@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/fb59d9de-35b8-4fb8-9edb-b67848c3c662
 
 https://github.com/user-attachments/assets/a8101af1-28fc-46e2-b8a4-f8c1acf0f099
 
-### 3.3 Publish Research
+### 3.2 Publish Research
 
 GitHub Copilot can assist in generating code for creating research papers, formatting data for journals, and preparing supplementary materials.
 
@@ -83,7 +83,7 @@ https://github.com/user-attachments/assets/9ee73696-da5d-49ba-9959-abaec9c98809
 https://github.com/user-attachments/assets/ad3bdd67-c293-4127-b600-099dca944ead
 
 
-### 3.4 Research Mining
+### 3.3 Research Mining
 
 Extract valuable insights from in-house enterprise research knowledge base, external research papers, datasets, and other sources with GitHub Copilot's assistance in developing text mining and analysis tools.
 
@@ -93,13 +93,13 @@ https://github.com/user-attachments/assets/ea2021b8-63bc-4ced-a3fb-9313a37f28cf
 
 https://github.com/user-attachments/assets/a9264619-6f2c-4453-a95a-31c796bb5764
 
-### 3.5 Agents for Research
+### 3.4 Agents for Research
 
 Leverage GitHub Copilot Agents to do Protein Folding, Protein Ligand Interaction & Strcture Prediction.This can automate simulation & validation tasks, monitor experiments, and alert you to important events.
 
 https://github.com/user-attachments/assets/a2bd797e-c1e4-43ad-add4-6bd68d77cfac
 
-### 3.6 Research Refactoring
+### 3.5 Research Refactoring
 
 Improve the quality, efficiency, and reproducibility of your research code with GitHub Copilot's refactoring suggestions.
 
