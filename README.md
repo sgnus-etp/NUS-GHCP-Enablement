@@ -92,6 +92,10 @@ Generate clear documentation, research reports, and even paper outlines with Git
 
 https://github.com/user-attachments/assets/b28e4e28-a721-4a44-9056-20c3a5f01bd5
 
+#### Drafting Content
+
+For more details on drafting content, refer to the [GitHub Copilot Chat Cookbook](https://docs.github.com/en/copilot/copilot-chat-cookbook/documenting-code/writing-discussions-or-blog-posts#drafting-content).
+
 ## 3. Unlock Research Excellence with GitHub Copilot
 
 #### 3.1.1 Accelerating Prototype Development -Neural Style Transfer
