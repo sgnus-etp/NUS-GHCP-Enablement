@@ -2,6 +2,10 @@
 
 This guide provides an overview of GitHub Copilot and how it can accelerate your research workflows. It serves as a reference for the workshop presented at NUS.
 
+## Installation of Visual Studio Code
+
+To set up Visual Studio Code, follow the instructions provided in the [official documentation](https://code.visualstudio.com/docs/setup/setup-overview).
+
 ## Getting Started with GitHub Copilot
 
 ### Installation in VS Code
