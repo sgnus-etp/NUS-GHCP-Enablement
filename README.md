@@ -91,7 +91,7 @@ Transform your research concepts and pseudocode into functional implementations 
 You are a researcher who has developed a new algorithm for data clustering. You need to implement this algorithm in code based on your research notes.
 
 ##### Example Prompt: 
-"Convert the pseudocode for my new data clustering algorithm into Python code. The algorithm involves initializing centroids, assigning data points to the nearest centroid, and updating centroids until convergence."
+`Convert the pseudocode for my new data clustering algorithm into Python code. The algorithm involves initializing centroids, assigning data points to the nearest centroid, and updating centroids until convergence.`
 
 https://github.com/user-attachments/assets/02a829b9-c5c5-48a2-9e34-e65589bf2e87
 
@@ -103,7 +103,7 @@ GitHub Copilot can help identify bugs, suggest optimizations, and improve code q
 You have written a script for data analysis, but it is running slowly and you suspect there might be some inefficiencies.
 
 ##### Example Prompt: 
-"Review my data analysis script and suggest optimizations to improve its performance. Identify any potential bugs or areas where the code can be made more efficient."
+`Review my data analysis script and suggest optimizations to improve its performance. Identify any potential bugs or areas where the code can be made more efficient.`
 
 https://github.com/user-attachments/assets/e8eb4ae4-9075-4852-bc63-19c377fa7c29
 
@@ -117,7 +117,7 @@ Generate clear documentation, research reports, and even paper outlines with Git
 You have completed a significant research project and now need to document your code and findings for publication.
 
 ##### Example Prompt: 
-"Generate documentation for my research project, including an overview of the project's goals, descriptions of the key functions in the code, and a summary of the results. Include code comments and a README file."
+`Generate documentation for my research project, including an overview of the project's goals, descriptions of the key functions in the code, and a summary of the results. Include code comments and a README file.`
 
 https://github.com/user-attachments/assets/b28e4e28-a721-4a44-9056-20c3a5f01bd5
 
@@ -135,10 +135,10 @@ Quickly build research prototypes and iterate on them with GitHub Copilot's code
 Imagine you are a deep learning specialist working on a research project to improve image classification accuracy. You have identified that certain parameters in your model need to be optimized to achieve better results. You decide to use GitHub Copilot to help you refine these parameters quickly.
 
 ##### Example Prompt: 
-"Assume that you are a deep learning specialist. Do the following changes in the codebase and suggest optimizations in the architecture:
+`Assume that you are a deep learning specialist. Do the following changes in the codebase and suggest optimizations in the architecture:
 Set the maximum number of epochs to 500.
 Use average pooling as the pooling type.
-Include larger image sizes in the dataset."
+Include larger image sizes in the dataset.`
 
 https://github.com/user-attachments/assets/b5b178cb-1581-46b9-b075-a2ff6d224dcd
 
@@ -150,11 +150,11 @@ Accelerate genomic data sequence analysis with GitHub Copilot by generating spec
 Imagine you are a data scientist specializing in statistical machine learning. You are tasked with analyzing a high-dimensional gene expression dataset to identify patterns and understand gene regulation mechanisms. The dataset is complex and requires extensive preprocessing, exploratory data analysis, and statistical analysis to uncover significant gene expression changes and detect complex patterns.
 
 ##### Example Prompt: 
-"Assume you are a data scientist specializing in statistical machine learning. You are tasked with analyzing a high-dimensional gene expression dataset. Do the following:
+`Assume you are a data scientist specializing in statistical machine learning. You are tasked with analyzing a high-dimensional gene expression dataset. Do the following:
 Clean and normalize the raw gene expression data.
 Visualize the data to identify initial patterns and outliers.
 Apply statistical methods to find significant gene expression changes.
-Use machine learning algorithms to detect complex patterns and clusters."
+Use machine learning algorithms to detect complex patterns and clusters.`
 
 https://github.com/user-attachments/assets/fb59d9de-35b8-4fb8-9edb-b67848c3c662
 
@@ -168,11 +168,11 @@ GitHub Copilot can assist in generating code for creating research papers, forma
 Imagine you are a computational researcher working on publishing your research findings. You have completed your research and now need to create a comprehensive markdown file that includes code snippets, figures, and tables. The process is tedious and time-consuming, and you need to ensure that the documentation is clear, consistent, and error-free.
 
 ##### Example Prompt: 
-"Assume you are a computational researcher. You are tasked with publishing your research findings by creating a markdown file. Do the following to create a markdown file:
+`Assume you are a computational researcher. You are tasked with publishing your research findings by creating a markdown file. Do the following to create a markdown file:
 Document the research process and findings in a clear and comprehensive manner.
 Integrate code snippets, figures, and tables seamlessly into the markdown file.
 Ensure consistency and accuracy throughout the documentation.
-Proofread the final document to ensure it is polished and error-free."
+Proofread the final document to ensure it is polished and error-free.`
 
 https://github.com/user-attachments/assets/9ee73696-da5d-49ba-9959-abaec9c98809
 
@@ -188,11 +188,11 @@ Imagine you are a researcher trying to find out about research done both in-hous
 
 ##### Example Prompt: 
 
-"Assume you are a researcher. You are tasked with finding out about research done both in-house within your enterprise and externally. Do the following:
+`Assume you are a researcher. You are tasked with finding out about research done both in-house within your enterprise and externally. Do the following:
 Search for relevant research papers and repositories related to your Topic of study.
 Summarize the methodologies, results, and potential applications of these research projects.
 Provide detailed information about the key findings and how they can be applied to your current research.
-Suggest further readings and resources to deepen your understanding of the topic."
+Suggest further readings and resources to deepen your understanding of the topic.`
 
 https://github.com/user-attachments/assets/7e534741-bc48-4b0d-8530-80120152d239
 
@@ -208,13 +208,13 @@ Leverage GitHub Copilot Agents to do Research Activities like Protein Folding, P
 Imagine you are a biomedical scientist working on predicting the 3D structure of a novel protein. You need to gather the amino acid sequence of the protein, analyze it using bioinformatics tools, set up and run simulations to predict the folding pathway, and validate the predicted structures. This process involves multiple steps and requires a streamlined workflow to ensure accuracy and efficiency.
 
 ##### Example Prompt: 
-"Assume you are a biomedical scientist. You are tasked with predicting the 3D structure of a novel protein. Do the following:
+`Assume you are a biomedical scientist. You are tasked with predicting the 3D structure of a novel protein. Do the following:
 Gather the amino acid sequence of the protein.
 Use bioinformatics tools to analyze the sequence for motifs and domains.
 Set up simulations to predict the folding pathway, considering factors like solvent conditions and temperature.
 Run multiple simulations to generate possible structures and folding pathways.
 Compare the predicted structures with known structures for validation.
-Refine the models based on validation results, possibly iterating through additional simulations."
+Refine the models based on validation results, possibly iterating through additional simulations.`
 
 https://github.com/user-attachments/assets/a2bd797e-c1e4-43ad-add4-6bd68d77cfac
 
@@ -226,11 +226,11 @@ Improve the quality, efficiency, and reproducibility of your research code with 
 Imagine you are a researcher who has completed a significant amount of work on a project, but you realize that the codebase needs refactoring to improve its efficiency and readability. You decide to use GitHub Copilot to help you refactor the code, ensuring that it adheres to best practices and is optimized for performance.
 
 ##### Example Prompt: 
-"Assume you are a Deep Learning Specialist. You are tasked with refactoring your research codebase to improve its efficiency and readability. Do the following:
+`Assume you are a Deep Learning Specialist. You are tasked with refactoring your research codebase to improve its efficiency and readability. Do the following:
 Identify and eliminate redundant code.
 Optimize the code for better performance.
 Ensure that the code adheres to best practices and coding standards.
-Document the changes made during the refactoring process."
+Document the changes made during the refactoring process.`
 
 https://github.com/user-attachments/assets/54a05971-9a6a-4a65-a05d-9c63d0502a8c
 
