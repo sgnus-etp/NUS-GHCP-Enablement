@@ -42,9 +42,9 @@ To set up Visual Studio Code, follow the instructions provided in the [official 
 
 For detailed instructions on setting up GitHub Copilot for yourself, refer to the [official documentation](https://docs.github.com/en/copilot/setting-up-github-copilot/setting-up-github-copilot-for-yourself).
 
-### Import Repository
+### Import Repository using URL
 
-https://github.com/user-attachments/assets/076b52a6-ab42-4434-b06a-c6b93023d22f
+https://github.com/user-attachments/assets/fc52b1dd-6204-496a-8642-08395d5b9da6
 
 ### Best Practices for Researchers
 
