@@ -102,6 +102,15 @@ For more examples and tips on drafting content, refer to the [GitHub Copilot Cha
 
 Quickly build research prototypes and iterate on them with GitHub Copilot's code generation capabilities. Ghibli type Neural Style Transfer example demonstrated in the workshop shows how GitHub Copilot can help optimize complex algorithms using natural language prompts, allowing researchers to focus on the creative and optimizing aspects of their work rather than implementation details.
 
+##### Example Scenario: 
+Imagine you are a deep learning specialist working on a research project to improve image classification accuracy. You have identified that certain parameters in your model need to be optimized to achieve better results. You decide to use GitHub Copilot to help you refine these parameters quickly.
+
+##### Example Prompt: 
+"Assume that you are a deep learning specialist. Do the following changes in the codebase and suggest optimizations in the architecture:
+Set the maximum number of epochs to 500.
+Use average pooling as the pooling type.
+Include larger image sizes in the dataset."
+
 https://github.com/user-attachments/assets/b5b178cb-1581-46b9-b075-a2ff6d224dcd
 
 #### 3.1.2 Accelerating Prototype Development - Quick Gene Pattern Analysis
