@@ -44,10 +44,11 @@ https://github.com/user-attachments/assets/28c0cedf-d9f6-4423-998c-df8afda3276e
    
    [![Watch the video](https://img.youtube.com/vi/dMbOh114Vd4/0.jpg)](https://www.youtube.com/watch?v=dMbOh114Vd4)
 
-3. Sign in to your GitHub account when prompted
-4. Ensure you have an active GitHub Copilot subscription
-5. Start coding with AI assistance!
+2. Sign in to your GitHub account when prompted
+3. Ensure you have an active GitHub Copilot subscription
+4. Start coding with AI assistance!
 
+For detailed instructions on setting up GitHub Copilot for yourself, refer to the [official documentation](https://docs.github.com/en/copilot/setting-up-github-copilot/setting-up-github-copilot-for-yourself).
 
 ### Best Practices for Researchers
 
