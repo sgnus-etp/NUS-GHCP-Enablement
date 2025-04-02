@@ -6,6 +6,8 @@ This guide provides an overview of GitHub Copilot and how it can accelerate your
 
 - [GitHub Copilot for Research Excellence - Excitement Day @ NUS](#github-copilot-for-research-excellence---excitement-day--nus)
   - [Installation of Visual Studio Code](#installation-of-visual-studio-code)
+    - [VS Code Installation in Windows](#vs-code-installation-in-windows)
+    - [VS Code Installation in MacOS](#vs-code-installation-in-macos)
   - [Getting Started with GitHub Copilot](#getting-started-with-github-copilot)
     - [Installation in VS Code](#installation-in-vs-code)
     - [Best Practices for Researchers](#best-practices-for-researchers)
@@ -49,6 +51,10 @@ https://github.com/user-attachments/assets/28c0cedf-d9f6-4423-998c-df8afda3276e
 4. Start coding with AI assistance!
 
 For detailed instructions on setting up GitHub Copilot for yourself, refer to the [official documentation](https://docs.github.com/en/copilot/setting-up-github-copilot/setting-up-github-copilot-for-yourself).
+
+### Import Repository
+
+https://github.com/user-attachments/assets/076b52a6-ab42-4434-b06a-c6b93023d22f
 
 ### Best Practices for Researchers
 
