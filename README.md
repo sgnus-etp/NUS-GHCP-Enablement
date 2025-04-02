@@ -48,56 +48,62 @@ https://github.com/user-attachments/assets/02a829b9-c5c5-48a2-9e34-e65589bf2e87
 
 GitHub Copilot can help identify bugs, suggest optimizations, and improve code quality through intelligent recommendations.
 
-<!-- VIDEO PLACEHOLDER: Code improvement demonstration 1 -->
-<!-- VIDEO PLACEHOLDER: Code improvement demonstration 2 -->
+https://github.com/user-attachments/assets/e8eb4ae4-9075-4852-bc63-19c377fa7c29
 
-### 2.4 Write Documents
+https://github.com/user-attachments/assets/7bf0fd8c-4f26-4e7b-b27b-09d2b9e49fc9
+
+### 2.4 Write Documentations
 
 Generate clear documentation, research reports, and even paper outlines with GitHub Copilot's natural language capabilities.
 
-<!-- VIDEO PLACEHOLDER: Documentation writing demonstration -->
+https://github.com/user-attachments/assets/b28e4e28-a721-4a44-9056-20c3a5f01bd5
 
 ## 3. Unlock Research Excellence with GitHub Copilot
 
 ### 3.1 Accelerating Prototype Development
 
-Quickly build research prototypes and iterate on them with GitHub Copilot's code generation capabilities.
+Quickly build research prototypes and iterate on them with GitHub Copilot's code generation capabilities. Ghibli type Neural Style Transfer example demonstrated in the workshop shows how GitHub Copilot can help optimize complex algorithms using natural language prompts, allowing researchers to focus on the creative and optimizing aspects of their work rather than implementation details.
 
-<!-- VIDEO PLACEHOLDER: Neural Style Transfer model optimization through natural language prompts -->
-
-The Neural Style Transfer example demonstrated in the workshop shows how GitHub Copilot can help optimize complex algorithms using natural language prompts, allowing researchers to focus on the creative aspects of their work rather than implementation details.
+https://github.com/user-attachments/assets/b5b178cb-1581-46b9-b075-a2ff6d224dcd
 
 ### 3.2 Quick Gene Pattern Analysis
 
-Accelerate genomic data analysis with GitHub Copilot by generating specialized code for sequence analysis, pattern recognition, and data visualization.
+Accelerate genomic data sequence analysis with GitHub Copilot by generating specialized code for sequence analysis, pattern recognition, and data visualization.
 
-<!-- VIDEO PLACEHOLDER: Gene pattern analysis demonstration 1 -->
-<!-- VIDEO PLACEHOLDER: Gene pattern analysis demonstration 2 -->
+https://github.com/user-attachments/assets/fb59d9de-35b8-4fb8-9edb-b67848c3c662
+
+https://github.com/user-attachments/assets/a8101af1-28fc-46e2-b8a4-f8c1acf0f099
 
 ### 3.3 Publish Research
 
-GitHub Copilot can assist in generating code for creating publication-quality figures, formatting data for journals, and preparing supplementary materials.
+GitHub Copilot can assist in generating code for creating research papers, formatting data for journals, and preparing supplementary materials.
 
-<!-- VIDEO PLACEHOLDER: Research publication assistance demonstration -->
+https://github.com/user-attachments/assets/9ee73696-da5d-49ba-9959-abaec9c98809
+
+https://github.com/user-attachments/assets/ad3bdd67-c293-4127-b600-099dca944ead
+
 
 ### 3.4 Research Mining
 
-Extract valuable insights from research papers, datasets, and other sources with GitHub Copilot's assistance in developing text mining and analysis tools.
+Extract valuable insights from in-house enterprise research knowledge base, external research papers, datasets, and other sources with GitHub Copilot's assistance in developing text mining and analysis tools.
 
-<!-- VIDEO PLACEHOLDER: Research mining demonstration -->
+https://github.com/user-attachments/assets/7e534741-bc48-4b0d-8530-80120152d239
+
+https://github.com/user-attachments/assets/ea2021b8-63bc-4ced-a3fb-9313a37f28cf
+
+https://github.com/user-attachments/assets/a9264619-6f2c-4453-a95a-31c796bb5764
 
 ### 3.5 Agents for Research
 
-Leverage GitHub Copilot to create custom research assistants that can automate repetitive tasks, monitor experiments, and alert you to important events.
+Leverage GitHub Copilot Agents to do Protein Folding, Protein Ligand Interaction & Strcture Prediction.This can automate simulation & validation tasks, monitor experiments, and alert you to important events.
 
-<!-- VIDEO PLACEHOLDER: Research agents demonstration -->
+https://github.com/user-attachments/assets/a2bd797e-c1e4-43ad-add4-6bd68d77cfac
 
 ### 3.6 Research Refactoring
 
 Improve the quality, efficiency, and reproducibility of your research code with GitHub Copilot's refactoring suggestions.
 
-<!-- VIDEO PLACEHOLDER: Research code refactoring demonstration -->
-
+https://github.com/user-attachments/assets/54a05971-9a6a-4a65-a05d-9c63d0502a8c
 
 ## Additional Resources
 
