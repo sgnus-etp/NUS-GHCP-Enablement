@@ -75,17 +75,35 @@ For researchers, GitHub Copilot offers:
 
 GitHub Copilot can help you understand existing codebases and implement new features faster by suggesting relevant code based on the context.
 
+##### Example Scenario: 
+Imagine you are joining a project focused on machine learning. You need to quickly understand the existing codebase and start contributing.
+
+##### Example Prompt: 
+`Assist me in understanding the main functionalities of this machine learning project. Identify key functions and provide a summary of what each does.`
+
 https://github.com/user-attachments/assets/1eccf452-1d70-409d-8462-f95743c2be44
 
 ### 2.2 Research Stories to Code
 
 Transform your research concepts and pseudocode into functional implementations by describing what you want to accomplish in natural language.
 
+##### Example Scenario: 
+You are a researcher who has developed a new algorithm for data clustering. You need to implement this algorithm in code based on your research notes.
+
+##### Example Prompt: 
+"Convert the pseudocode for my new data clustering algorithm into Python code. The algorithm involves initializing centroids, assigning data points to the nearest centroid, and updating centroids until convergence."
+
 https://github.com/user-attachments/assets/02a829b9-c5c5-48a2-9e34-e65589bf2e87
 
 ### 2.3 Provide Input to Improve & Fix Code
 
 GitHub Copilot can help identify bugs, suggest optimizations, and improve code quality through intelligent recommendations.
+
+##### Example Scenario: 
+You have written a script for data analysis, but it is running slowly and you suspect there might be some inefficiencies.
+
+##### Example Prompt: 
+"Review my data analysis script and suggest optimizations to improve its performance. Identify any potential bugs or areas where the code can be made more efficient."
 
 https://github.com/user-attachments/assets/e8eb4ae4-9075-4852-bc63-19c377fa7c29
 
@@ -94,6 +112,12 @@ https://github.com/user-attachments/assets/7bf0fd8c-4f26-4e7b-b27b-09d2b9e49fc9
 ### 2.4 Write Documentations
 
 Generate clear documentation, research reports, and even paper outlines with GitHub Copilot's natural language capabilities.
+
+##### Example Scenario: 
+You have completed a significant research project and now need to document your code and findings for publication.
+
+##### Example Prompt: 
+"Generate documentation for my research project, including an overview of the project's goals, descriptions of the key functions in the code, and a summary of the results. Include code comments and a README file."
 
 https://github.com/user-attachments/assets/b28e4e28-a721-4a44-9056-20c3a5f01bd5
 
