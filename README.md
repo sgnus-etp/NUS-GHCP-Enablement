@@ -36,22 +36,13 @@ For researchers, GitHub Copilot offers:
 
 GitHub Copilot can help you understand existing codebases and implement new features faster by suggesting relevant code based on the context.
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/b0ca4ab0-970c-45b4-8f5c-af47309ecc77" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
-
-
-**Help Onboard to a Project Faster**
+https://github.com/user-attachments/assets/1eccf452-1d70-409d-8462-f95743c2be44
 
 ### 2.2 Research Stories to Code
 
 Transform your research concepts and pseudocode into functional implementations by describing what you want to accomplish in natural language.
 
-<!-- VIDEO PLACEHOLDER: Research stories to code demonstration -->
+https://github.com/user-attachments/assets/02a829b9-c5c5-48a2-9e34-e65589bf2e87
 
 ### 2.3 Provide Input to Improve & Fix Code
 
