@@ -60,13 +60,13 @@ https://github.com/user-attachments/assets/b28e4e28-a721-4a44-9056-20c3a5f01bd5
 
 ## 3. Unlock Research Excellence with GitHub Copilot
 
-### 3.1 Accelerating Prototype Development
+#### 3.1 Accelerating Prototype Development -Neural Style Transfer
 
 Quickly build research prototypes and iterate on them with GitHub Copilot's code generation capabilities. Ghibli type Neural Style Transfer example demonstrated in the workshop shows how GitHub Copilot can help optimize complex algorithms using natural language prompts, allowing researchers to focus on the creative and optimizing aspects of their work rather than implementation details.
 
 https://github.com/user-attachments/assets/b5b178cb-1581-46b9-b075-a2ff6d224dcd
 
-### 3.2 Quick Gene Pattern Analysis
+#### 3.2 Accelerating Prototype Development - Quick Gene Pattern Analysis
 
 Accelerate genomic data sequence analysis with GitHub Copilot by generating specialized code for sequence analysis, pattern recognition, and data visualization.
 
