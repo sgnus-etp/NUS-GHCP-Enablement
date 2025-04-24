@@ -46,7 +46,38 @@ For detailed instructions on setting up GitHub Copilot for yourself, refer to th
 
 https://github.com/user-attachments/assets/fc52b1dd-6204-496a-8642-08395d5b9da6
 
-### Best Practices for Researchers
+## Import Repository using Command Line
+
+1. **Clone the Repository**:
+   - Open your terminal or command prompt.
+   - Clone the repository using the command:
+     ```bash
+     git clone https://URL_OF_YOUR_SOURCE_REPOSITORY.git
+     ```
+
+2. **Create a New Repository on GitHub**:
+   - Go to [GitHub org sgnus-etp](https://github.com/sgnus-etp/) and [create a new repository on GitHub](https://docs.github.com/en/enterprise-cloud@latest/repositories/creating-and-managing-repositories/creating-a-new-repository). You'll import your external Git repository to this new repository.
+
+3. **Create a Token and Authorise**:
+   - Create a [Classic Token PAT](https://docs.github.com/en/enterprise-cloud@latest/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) with repo scope under your user account.
+   - [SAML authorize](https://docs.github.com/en/enterprise-cloud@latest/authentication/authenticating-with-saml-single-sign-on/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on) it against your organization sgnus-etp.
+
+4. **Add Remote and Push**:
+   - Navigate to your cloned repository in the terminal.
+   - Add the GitHub repository as a remote:
+     ```bash
+     git remote add origin https:///URL_OF_YOUR_GITHUB_REPOSITORY.git
+     ```
+   - Push your code to GitHub replacing USERNAME with your GitHub handle and TOKEN with the PAT you've created:
+     ```bash
+     git push -u https://USERNAME:TOKEN@github.com/sgnus-etp/YOUR_GITHUB_REPOSITORY_NAME.git master
+     ```
+**Failure Cases**:
+   - If you have error executing the command, try running the below command and retry step 4.
+     ```bash
+     git config --global http.postBuffer 524288000
+     ```
+## Best Practices for Researchers
 
 - **Be specific in your comments**: Provide clear context about the research task you're trying to accomplish
 - **Iterate on suggestions**: Treat Copilot suggestions as a starting point and refine as needed
