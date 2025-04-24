@@ -64,13 +64,13 @@ https://github.com/user-attachments/assets/fc52b1dd-6204-496a-8642-08395d5b9da6
 
 4. **Add Remote and Push**:
    - Navigate to your cloned repository in the terminal.
-   - Add the GitHub repository as a remote replacing USERNAME with your GitHub handle and TOKEN with the PAT you've created:
+   - Add the GitHub repository as a remote:
      ```bash
-     git remote add origin https://USERNAME:TOKEN@github.com/sgnus-etp/YOUR_GITHUB_REPOSITORY_NAME.git
+     git remote add origin https:///URL_OF_YOUR_GITHUB_REPOSITORY.git
      ```
-   - Push your code to GitHub:
+   - Push your code to GitHub replacing USERNAME with your GitHub handle and TOKEN with the PAT you've created:
      ```bash
-     git push -u origin master
+     git push -u https://USERNAME:TOKEN@github.com/sgnus-etp/YOUR_GITHUB_REPOSITORY_NAME.git master
      ```
 **Failure Cases**:
    - If you have error executing the command, try running the below command and retry step 4.
