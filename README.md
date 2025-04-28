@@ -8,6 +8,7 @@ This guide provides an overview of GitHub Copilot and how it can accelerate your
   - [Installation of Visual Studio Code](#installation-of-visual-studio-code)
   - [Getting Started with GitHub Copilot](#getting-started-with-github-copilot)
     - [Installation in VS Code](#installation-in-vs-code)
+    - [Import Repository using URL](#import-repository-using-url)
     - [Best Practices for Researchers](#best-practices-for-researchers)
   - [1. About GitHub Copilot](#1-about-github-copilot)
   - [2. GitHub Copilot Features](#2-github-copilot-features)
@@ -73,12 +74,12 @@ https://github.com/user-attachments/assets/fc52b1dd-6204-496a-8642-08395d5b9da6
      git push -u https://USERNAME:TOKEN@github.com/sgnus-etp/YOUR_GITHUB_REPOSITORY_NAME.git master
      ```
 **Failure Cases**:
-   - If you have error executing the command, try running the below command and retry step 4.
+   - If you have error executing the command, try running the below command and retry step 4 to increase the buffer size. 
      ```bash
      git config --global http.postBuffer 524288000
      ```
 ## Best Practices for Researchers
-
+- **Repository Naming**: Prefix your repository with your department initials followed by underscore. E.g. MVPS_repo-name for MVP Studio.
 - **Be specific in your comments**: Provide clear context about the research task you're trying to accomplish
 - **Iterate on suggestions**: Treat Copilot suggestions as a starting point and refine as needed
 - **Use pseudocode**: Outline your algorithms in comments or Chat before implementation
